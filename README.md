@@ -1,16 +1,14 @@
-### Hi there 👋
+# <h1 align="center">Hi there, Thomas here ✨</h1>
 
-<!--
-**lolikana/lolikana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <h2 align="center">Front End Developer => next step: FullStack 🔥</h2>
 
-Here are some ideas to get you started:
+Self-taught front-end developer passionate about creating exceptional user experiences. 
+Currently seeking a challenging position to utilize my skills and continue learning in a dynamic work environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Want to reach me?: [Click here](mailto:thomas.guiart@gmail.com)
+- 🏋️ More about my experiences: <a href="https://www.linkedin.com/in/thomas-guiart/">LinkedIn</a>
+
+### Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolikana&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolikana&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
