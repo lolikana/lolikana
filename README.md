@@ -15,13 +15,13 @@ Currently seeking a challenging position to utilize my skills and continue learn
 
 ## Projects
 
-### Personal
+### <ins>Personal</ins>
 
 * Clone: Homepage Playstation (Webpack, API)
     * <a href="https://github.com/lolikana/clone-playstation">code</a>
     * <a href="https://clone-playstation.vercel.app/">preview</a>
 
-### <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>
+### <ins><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></ins>
 
 #### The Odin Project - FullStack JS Path
 
