@@ -21,37 +21,38 @@ Currently seeking a challenging position to utilize my skills and continue learn
 
 ### <ins>Personal</ins>
 
-* Clone: Homepage Playstation (Webpack, API)
-    * <a href="https://github.com/lolikana/clone-playstation">code</a>
-    * <a href="https://clone-playstation.vercel.app/">preview</a>
+* Clone: Homepage Playstation (Webpack, API) - 
+<a href="https://github.com/lolikana/clone-playstation">code</a> - 
+<a href="https://clone-playstation.vercel.app/">preview</a>
 
 ### <ins><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></ins>
 
 #### FullStack JS Path
 
-* Todo List (OOP, Vite)
-    * <a href="https://github.com/lolikana/odin-vite_ts-todo">code</a>
-* Restaurant Page (Webpack)
-    * <a href="https://github.com/lolikana/odin-webpack_restaurant">code</a>
-    * <a href="https://lolikana.github.io/odin-webpack_restaurant/">preview</a>
-* Library (OOP)
-    * <a href="https://github.com/lolikana/odin-library_app">code</a>
-    * <a href="https://lolikana.github.io/odin-library_app/">preview</a>
-* Signup Form (Form & validations)
-    * <a href="https://github.com/lolikana/odin-sign_up_form">code</a>
-    * <a href="https://lolikana.github.io/odin-sign_up_form/">preview</a>
-* Dashboard (Flexbox & Grid)
-    * <a href="https://github.com/lolikana/odin-admin_dashboard">code</a>
-    * <a href="https://lolikana.github.io/odin-admin_dashboard/">preview</a>
+* Todo List (OOP, Vite) - 
+<a href="https://github.com/lolikana/odin-vite_ts-todo">code</a>
+* Restaurant Page (Webpack) - 
+<a href="https://github.com/lolikana/odin-webpack_restaurant">code</a> - 
+<a href="https://lolikana.github.io/odin-webpack_restaurant/">preview</a>
+* Library (OOP) - 
+<a href="https://github.com/lolikana/odin-library_app">code</a> - 
+<a href="https://lolikana.github.io/odin-library_app/">preview</a>
+* Signup Form (Form & validations) -
+<a href="https://github.com/lolikana/odin-sign_up_form">code</a> - 
+<a href="https://lolikana.github.io/odin-sign_up_form/">preview</a>
+* Dashboard (Flexbox & Grid) - 
+<a href="https://github.com/lolikana/odin-admin_dashboard">code</a> - 
+<a href="https://lolikana.github.io/odin-admin_dashboard/">preview</a>
 
 #### Foundations
 
-* Calculator (JS)
-    * <a href="https://github.com/lolikana/odin-calculator">code</a>
-    * <a href="https://lolikana.github.io/odin-calculator/">preview</a>
-* Etch-a-sketch (JS)
-    * <a href="https://github.com/lolikana/odin-etch_and_sketch">code</a>
-    * <a href="https://lolikana.github.io/odin-etch_and_sketch/">preview</a>
-* Rock-Paper-Scissors (JS)
-    * <a href="https://github.com/lolikana/odin-rock_paper_scissors">code</a>
-    * <a href="https://lolikana.github.io/odin-rock_paper_scissors/">preview</a>
+* Calculator (JS) - 
+<a href="https://github.com/lolikana/odin-calculator">code</a> - 
+<a href="https://lolikana.github.io/odin-calculator/">preview</a>
+* Etch-a-sketch (JS) - 
+<a href="https://github.com/lolikana/odin-etch_and_sketch">code</a> - 
+<a href="https://lolikana.github.io/odin-etch_and_sketch/">preview</a>
+* Rock-Paper-Scissors (JS) - 
+<a href="https://github.com/lolikana/odin-rock_paper_scissors">code</a> - 
+<a href="https://lolikana.github.io/odin-rock_paper_scissors/">preview</a>
+
