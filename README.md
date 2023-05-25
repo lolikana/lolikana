@@ -27,7 +27,7 @@ Currently seeking a challenging position to utilize my skills and continue learn
 
 ### <ins><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></ins>
 
-#### The Odin Project - FullStack JS Path
+#### FullStack JS Path
 
 * Todo List (OOP, Vite)
     * <a href="https://github.com/lolikana/odin-vite_ts-todo">code</a>
