@@ -10,9 +10,11 @@ Currently seeking a challenging position to utilize my skills and continue learn
    
 ## <h2 align="center">Github Stats</h2>
 <div align="center">
+   
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolikana&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=lolikana&show_icons=true&theme=tokyonight)
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolikana&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=lolikana&layout=compact&theme=tokyonight)
+   
 </div>
    
 ## <h2 align="center">Projects</h2>
