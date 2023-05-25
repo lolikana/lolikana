@@ -15,7 +15,7 @@ Currently seeking a challenging position to utilize my skills and continue learn
 
 ## Projects
 
-### <a href="https://www.theodinproject.com/" target="_blank">Personal</a>
+### Personal
 
 * Clone: Homepage Playstation (Webpack, API)
     * <a href="https://github.com/lolikana/clone-playstation">code</a>
