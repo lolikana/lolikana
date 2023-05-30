@@ -29,6 +29,8 @@ Currently seeking a challenging position to utilize my skills and continue learn
 
 #### FullStack JS Path
 
+* Weather App (React Native, API) - 
+<a href="https://github.com/lolikana/odin-weather_app">code</a>
 * Todo List (OOP, Vite) - 
 <a href="https://github.com/lolikana/odin-vite_ts-todo">code</a>
 * Restaurant Page (Webpack) - 
