@@ -31,6 +31,9 @@ Currently seeking a challenging position to utilize my skills and continue learn
 
 #### FullStack JS Path
 
+* Shopping Cart (React + Vite, Vitest, Redux) -
+<a href="https://github.com/lolikana/odin-shopping_cart">code</a> -
+<a href="https://odin-shopping-cart-two.vercel.app/">preview</a>
 * Weather App (React Native, API) - 
 <a href="https://github.com/lolikana/odin-weather_app">code</a>
 * Todo List (OOP, Vite) - 
