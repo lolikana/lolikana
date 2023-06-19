@@ -65,7 +65,10 @@ Currently seeking a challenging position to utilize my skills and continue learn
 
 ### <ins>Open Class Room</ins>
 
-* Calculator (HTML, CSS) - 
+* Oh My Food (HTML, SCSS) - 
+<a href="https://github.com/lolikana/ocr-p3-ohmyfood">code</a> - 
+<a href="https://lolikana.github.io/ocr-p3-ohmyfood/">preview</a>
+* Reservia (HTML, CSS) - 
 <a href="https://github.com/lolikana/ocr-p2-reservia">code</a> - 
 <a href="https://lolikana.github.io/ocr-p2-reservia/">preview</a>
 
