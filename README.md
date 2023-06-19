@@ -63,3 +63,10 @@ Currently seeking a challenging position to utilize my skills and continue learn
 <a href="https://github.com/lolikana/odin-rock_paper_scissors">code</a> - 
 <a href="https://lolikana.github.io/odin-rock_paper_scissors/">preview</a>
 
+### <ins>Open Class Room</ins>
+
+* Calculator (HTML, CSS) - 
+<a href="https://github.com/lolikana/ocr-p2-reservia">code</a> - 
+<a href="https://lolikana.github.io/ocr-p2-reservia/">preview</a>
+
+
