@@ -36,8 +36,9 @@ Currently seeking a challenging position to utilize my skills and continue learn
 <a href="https://odin-shopping-cart-two.vercel.app/">preview</a>
 * Weather App (React Native, API) - 
 <a href="https://github.com/lolikana/odin-weather_app">code</a>
-* Todo List (OOP, Vite) - 
-<a href="https://github.com/lolikana/odin-vite_ts-todo">code</a>
+* Todo List (OOP, Vite, Auth) - 
+<a href="https://github.com/lolikana/odin-vite_ts-todo">code</a> - 
+<a href="https://top-todo.onrender.com/">preview</a>
 * Restaurant Page (Webpack) - 
 <a href="https://github.com/lolikana/odin-webpack_restaurant">code</a> - 
 <a href="https://lolikana.github.io/odin-webpack_restaurant/">preview</a>
