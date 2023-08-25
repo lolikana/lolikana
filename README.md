@@ -21,6 +21,10 @@ Currently seeking a challenging position to utilize my skills and continue learn
 
 ### <ins>Personal</ins>
 
+* Undergoing Clone: Nayuta wesite - current company (Astro/React) - 
+<a href="https://github.com/lolikana/astro-nayuta">code</a> - 
+<a href="https://lolikana.github.io/astro-nayuta/">preview</a> -
+<a href="https://nayuta.earth/">original</a>
 * Clone: Homepage Playstation (Webpack, API) - 
 <a href="https://github.com/lolikana/clone-playstation">code</a> - 
 <a href="https://clone-playstation.vercel.app/">preview</a>
