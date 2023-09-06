@@ -80,4 +80,8 @@ Currently seeking a challenging position to utilize my skills and continue learn
 <a href="https://github.com/lolikana/ocr-p2-reservia">code</a> - 
 <a href="https://lolikana.github.io/ocr-p2-reservia/">preview</a>
 
+### <ins>Others</ins>
 
+* React Query Pagination - Users Table (React Query/Tanstack, REST API) - 
+<a href="https://github.com/lolikana/react-query-pagination">code</a> - 
+<a href="https://react-query-pagination-zeta.vercel.app/">preview</a>
