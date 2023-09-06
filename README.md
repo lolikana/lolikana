@@ -21,7 +21,7 @@ Currently seeking a challenging position to utilize my skills and continue learn
 
 ### <ins>Personal</ins>
 
-* Yelpcamp (MERN Stack) - 
+* (undergoing) Yelpcamp (MERN Stack) - 
 <a href="https://github.com/lolikana/yelpcamp-mern">code</a> - 
 <a href="https://yelpcamp-mern.vercel.app/">preview</a>
 * Nayuta wesite - current company (Astro/React) - 
