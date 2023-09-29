@@ -85,6 +85,6 @@ Currently seeking a challenging position to utilize my skills and continue learn
 * React Query Pagination - Users Table (React Query/Tanstack, REST API) - 
 <a href="https://github.com/lolikana/react-query-pagination">code</a> - 
 <a href="https://react-query-pagination-zeta.vercel.app/">preview</a>
-* Firebase - Fetching news (Firebase, Pagination hook) - 
+* Firebase CRUD - Fetching news (Firebase, Pagination hook) - 
 <a href="https://github.com/lolikana/nayuta-fetch-news">code</a> - 
 <a href="https://nayuta-fetch-news.vercel.app/">preview</a>
