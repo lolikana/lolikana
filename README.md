@@ -44,7 +44,6 @@ Currently seeking a challenging position to utilize my skills and continue learn
    
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    
@@ -75,7 +74,7 @@ Currently seeking a challenging position to utilize my skills and continue learn
 <a href="https://github.com/lolikana/pawdog-g/deployments">code</a> - 
 <a href="https://lolikana.github.io/pawdog-g/">preview</a> -
 <a href="https://www.kintetsu-g-hd.co.jp/recruit/johokei/index.html">original</a>
-* (undergoing) Yelpcamp (MERN Stack) - 
+* Yelpcamp (MERN Stack) - 
 <a href="https://github.com/lolikana/yelpcamp-mern">code</a> - 
 <a href="https://yelpcamp-mern.vercel.app/">preview</a>
 * Nayuta wesite - current company (Astro/React) - 
