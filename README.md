@@ -70,12 +70,12 @@ Currently seeking a challenging position to utilize my skills and continue learn
 
 ### <ins>Personal</ins>
 
-* Clone: hello.ai (Astro) - 
+* Clone: hello.ai (Astro, Front) - 
 <a href="https://github.com/lolikana/clone-hello.ai">code</a> - 
 <a href="clone-hello-ai.vercel.app">preview</a> -
 <a href="https://www.hello.ai/en">original</a>
 * Clone: Kintestu-g (Astro) - 
-<a href="https://github.com/lolikana/pawdog-g/deployments">code</a> - 
+<a href="https://github.com/lolikana/pawdog-g">code</a> - 
 <a href="https://lolikana.github.io/pawdog-g/">preview</a> -
 <a href="https://www.kintetsu-g-hd.co.jp/recruit/johokei/index.html">original</a>
 * Yelpcamp (MERN Stack) - 
