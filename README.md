@@ -70,7 +70,7 @@ Currently seeking a challenging position to utilize my skills and continue learn
 
 ### <ins>Personal</ins>
 
-* [in progress] Clone: hello.ai (Astro, Front) - 
+* (in progress) Clone: hello.ai (Astro, Front) - 
 <a href="https://github.com/lolikana/clone-hello.ai">code</a> - 
 <a href="https://clone-hello-ai.vercel.app/">preview</a> -
 <a href="https://www.hello.ai/en">original</a>
