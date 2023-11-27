@@ -24,7 +24,7 @@ Currently seeking a challenging position to utilize my skills and continue learn
          </tr>
          <tr>
             <td align="center">
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6544e05a4352f418f81226c4?variant=dark&roadmaps=typescript%2Cfrontend%2Cfull-stack%2Creact-native" alt="roadmap.sh"/></a>
+               <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6544e05a4352f418f81226c4?variant=dark&roadmaps=frontend%2Cfull-stack%2Ctypescript%2Creact-native" alt="roadmap.sh"/></a>                     
             </td>
             <td>
                <ul>
