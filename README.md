@@ -23,8 +23,27 @@ Currently seeking a challenging position to utilize my skills and continue learn
             </td>
          </tr>
          <tr>
-            <td colspan="2" align="center">
+            <td align="center">
             <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6544e05a4352f418f81226c4?variant=dark" alt="roadmap.sh"/></a>
+            </td>
+            <td>
+               <ul>
+                  <li>
+                     <a href="https://roadmap.sh/frontend?s=6544e05a4352f418f81226c4">Front-End</a>
+                  </li>
+                  <li>
+                     <a href="https://roadmap.sh/backend?s=6544e05a4352f418f81226c4">Back-End</a>
+                  </li>
+                  <li>
+                     <a href="https://roadmap.sh/full-stack?s=6544e05a4352f418f81226c4">Full-Stack</a>
+                  </li>
+                  <li>
+                     <a href="https://roadmap.sh/typescript?s=6544e05a4352f418f81226c4">Typescript</a>
+                  </li>
+                  <li>
+                     <a href="https://roadmap.sh/react-native?s=6544e05a4352f418f81226c4">React Native</a>
+                  </li>
+               </ul>
             </td>
          </tr>
       </tbody>
