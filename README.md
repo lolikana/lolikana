@@ -13,14 +13,19 @@ Currently seeking a challenging position to utilize my skills and continue learn
    <table align="center">
       <tbody>
          <tr>
-            <th>
+            <td>
             
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolikana&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=lolikana&show_icons=true&theme=tokyonight)    
-            </th>
-            <th>
+            </td>
+            <td>
             
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolikana&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=lolikana&layout=compact&theme=tokyonight)        
-            </th>
+            </td>
+         </tr>
+         <tr>
+            <td colspan="2" align="center">
+            <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6544e05a4352f418f81226c4?variant=dark" alt="roadmap.sh"/></a>
+            </td>
          </tr>
       </tbody>
    </table>
