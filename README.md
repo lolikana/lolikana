@@ -100,7 +100,7 @@ Currently seeking a challenging position to utilize my skills and continue learn
 <a href="https://github.com/lolikana/clone-hello.ai">code</a> - 
 <a href="https://clone-hello-ai.vercel.app/">preview</a> -
 <a href="https://www.hello.ai/en">original</a>
-* Clone: Kintestu-g (Astro) - 
+* Clone: Kintetsu-g (Astro) - 
 <a href="https://github.com/lolikana/pawdog-g">code</a> - 
 <a href="https://lolikana.github.io/pawdog-g/">preview</a> -
 <a href="https://www.kintetsu-g-hd.co.jp/recruit/johokei/index.html">original</a>
