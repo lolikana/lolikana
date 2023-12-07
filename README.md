@@ -1,6 +1,6 @@
 # <h1 align="center">Hi there, Thomas here ✨</h1>
 
-<div align="center"><a href="https://lolikana.github.io/portfolio/" target="#_blank">PORTFOLIO</a></div>
+<div align="center"><a href="https://portfolio-lolikana.vercel.app/" target="#_blank">PORTFOLIO</a></div>
 
 ## <h2 align="center">Front End Developer => next step: FullStack 🔥</h2>
 
