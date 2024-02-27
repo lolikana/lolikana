@@ -104,7 +104,7 @@ Currently seeking a challenging position to utilize my skills and continue learn
 <a href="https://github.com/lolikana/pawdog-g">code</a> - 
 <a href="https://lolikana.github.io/pawdog-g/">preview</a> -
 <a href="https://www.kintetsu-g-hd.co.jp/recruit/johokei/index.html">original</a>
-* Yelpcamp (MERN Stack) - 
+* Yelpcamp (MERN Stack, Vite, Prisma) - 
 <a href="https://github.com/lolikana/yelpcamp-mern">code</a> - 
 <a href="https://yelpcamp-mern.vercel.app/">preview</a>
 * Nayuta wesite - current company (Astro/React) - 
