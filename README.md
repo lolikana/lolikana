@@ -115,7 +115,8 @@ Currently seeking a challenging position to utilize my skills and continue learn
 <a href="https://github.com/lolikana/clone-playstation">code</a> - 
 <a href="https://clone-playstation.vercel.app/">preview</a>
 * Automate login and input (freee人事労務) (scrapping, test automation) - 
-<a href="https://github.com/lolikana/freee-bot_login">code</a>
+<a href="https://github.com/lolikana/freee-bot_login">code</a> - 
+<a href="https://www.youtube.com/watch?v=qne7spyey04">video</a>
 
 ### <ins><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></ins>
 
