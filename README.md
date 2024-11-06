@@ -114,7 +114,7 @@ Currently seeking a challenging position to utilize my skills and continue learn
 * Clone: Homepage Playstation (Webpack, API) - 
 <a href="https://github.com/lolikana/clone-playstation">code</a> - 
 <a href="https://clone-playstation.vercel.app/">preview</a>
-* Automate login and input (freee人事労務) (test automation) - 
+* Automate login and input (freee人事労務) (scrapping, test automation) - 
 <a href="https://github.com/lolikana/freee-bot_login">code</a>
 
 ### <ins><a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a></ins>
